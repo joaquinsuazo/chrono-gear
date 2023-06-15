@@ -2,7 +2,8 @@
 		"name": "Testament",
 		"pagina": "https://www.guiltygear.com/ggst/en/",
 		"img": "https://raw.githubusercontent.com/joaquinsuazo/Front-clase-11/main/img/Testament%20guilty%20imagen.jpg",
-		"juego": "Personaje principal de guilty gear"
+		"juego": "Personaje principal de guilty gear",
+	        "github": "hola"
 
 
 	},
