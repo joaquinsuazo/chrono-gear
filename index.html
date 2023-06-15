@@ -17,7 +17,7 @@
         </section>
         <script>
             async function portfolio() {
-                const consulta = await fetch("https://raw.githubusercontent.com/joaquinsuazo/Front-clase-11/main/data.json");
+                const consulta = await fetch("https://raw.githubusercontent.com/joaquinsuazo/chrono-gear/main/data.json");
                 const data = await consulta.json();
                 var donde = document.querySelector("#trabajos");
                 data.forEach(function (t, i) {
