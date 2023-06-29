@@ -1,7 +1,7 @@
 [{
 		"titulo": "Guilty Gear",
 		"fecha": "1998",
-		"img": "",
+		"img": "https://github.com/joaquinsuazo/chrono-gear/blob/main/data%202.json",
 		"historia": "",
 		"consola": ""
 
@@ -41,7 +41,7 @@
 	{
 		"titulo": "Guilty Gear Xrd -Sign-",
 		"fecha": "2014",
-		"img": "",
+		"img": "https://github.com/joaquinsuazo/chrono-gear/edit/main/data%202.json",
 		"historia": "",
 		"consola": ""
 
