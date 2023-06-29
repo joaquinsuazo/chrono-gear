@@ -2,8 +2,8 @@
 		"titulo": "Guilty Gear",
 		"fecha": "1998",
 		"img": "https://github.com/joaquinsuazo/chrono-gear/blob/main/img/capsule_616x353.jpg?raw=true",
-		"historia": "",
-		"consola": ""
+		"historia": "Cinco años después de que terminara The Holy War, el Gear conocido como Testament intenta liberar a Justice de su prisión dimensional. Para evitar esto, las Naciones Unidas realizan un torneo con la intención de encontrar guerreros para formar una segunda Sacred Order of Holy Knights y de ese modo detener a Testament y Justice. Al final, el cazarrecompensas conocido como Sol Badguy derrota a Justice de nuevo, y esta vez para siempre.",
+		"consola": "Playstation 1"
 
 
 
@@ -13,18 +13,18 @@
 		"titulo": "Guilty Gear X",
 		"fecha": "2000",
 		"img": "https://github.com/joaquinsuazo/chrono-gear/blob/main/img/74-740375_guilty-gear-x-guilty-gear-x-logo.png?raw=true",
-		"historia": "",
-		"consola": ""
+		"historia": "Menos de un año después del incidente de Justice, llegan informes del descubrimiento de un nuevo Gear del tipo "comandante". Con el temor de otra posible guerra, las Naciones Unidas inician otro torneo, En esta ocasión se entregarán 500.000 dólares mundiales a quien sea capaz de destruir al Gear. Un gran número de cazarrecompensas se dirigen al lugar llamado Devil Living Place (La Casa del Demonio), en donde vive el misterioso Gear, que resulta ser una chica llamada Dizzy. Aunque es muy poderosa, no tiene intenciones de lastimar a nadie. Es Sol Badguy quien la derrota, pero por razones desconocidas le perdona la vida y la deja ir. Más tarde, Ky Kiske, integrante de la Fuerza Policíaca Internacional, la encuentra y para protegerla la pone bajo el cuidado de Johnny, capitán de los piratas aéreos del Jellyfish. Johnny ofrece a Dizzy unirse a su tripulación, en donde estará segura de los cazarrecompensas. Mientras tanto la cazarrecompensas y cocinera Jam Kuradoberi se las arregla para obtener el dinero de la recompensa, argumentando que fue ella quien derrotó a Dizzy y así por fin logra el sueño de abrir su propio restaurante.",
+		"consola": "Playstation 2"
 
 
 
 	},
 	{
-		"titulo": "Guilty Gear XX Λ Core Plus R",
-		"fecha": "2012",
+		"titulo": "Guilty Gear XX: The Midnight Carnival",
+		"fecha": "2002",
 		"img": "https://github.com/joaquinsuazo/chrono-gear/blob/main/img/guilty_gear_xx_accent_core_plus_r_logo.jpg?raw=true",
-		"historia": "",
-		"consola": ""
+		"historia": "Tiene lugar semanas después de los acontecimientos ocurridos en By Your Side. Una misteriosa organización llamada La Administración de Post-Guerra (Postwar Administration Bureau/Shuusen Kanrikyoku) hace su aparición. Al parecer, su intención es capturar a los Gears y a los peleadores más poderosos. Sin embargo, su objetivo definitivo se ignora. Al mismo tiempo surge otro personaje, un hombre misterioso que clama ser el creador de los Gears (los cuales fueron creados hace más de 100 años) y al cual todos se refieren a él simplemente como "Ese Hombre" (That Man/Ano Otoko). De nueva cuenta todos los peleadores se ven envueltos en situaciones fuera de control, principalmente ocasionadas por I-No, una misteriosa chica que trabaja bajo las órdenes de "Ese Hombre" por razones aún desconocidas.",
+		"consola": "Playstation 3"
 
 
 
@@ -33,8 +33,8 @@
 		"titulo": "Guilty Gear 2 -Overture-",
 		"fecha": "2007",
 		"img": "https://github.com/joaquinsuazo/chrono-gear/blob/main/img/GG2_Logo.png?raw=true",
-		"historia": "",
-		"consola": ""
+		"historia": "Tiene lugar cinco años después de los eventos de The Missing Link, Sol Badguy se encuentra viajando con su nuevo pupilo: Sin Kiske, ambos trabajando como cazarrecompensas. Mientras tanto, Ky Kiske, quien fue elegido como el primer rey de Illyria, recibe el siguiente informe: los Gears inactivos continúan desapareciendo y la capital está siendo atacada por una fuerza conocida como Valentine. Mientras se prepara para la batalla, Ky pone una recompensa por la cabeza de Sol. Durante el transcurso del juego, Sol y Sin se harán aliados entre los cuales se encuentran el Dr. Paradigm, Izuna y "ese hombre" con el fin de acabar con esta nueva amenaza.",
+		"consola": "Xbox 360"
 
 
 	},
@@ -42,8 +42,8 @@
 		"titulo": "Guilty Gear Xrd -Sign-",
 		"fecha": "2014",
 		"img": "https://github.com/joaquinsuazo/chrono-gear/edit/main/data%202.json",
-		"historia": "",
-		"consola": ""
+		"historia": "Tres meses después de los eventos de Guilty Gear Vastedge XT, una nueva Valentine aparece y declara la guerra a la humanidad, esta nueva amenaza lleva el nombre de "Ramlethal Valentine", quien el Cónclave esta utilizando como peón para sus planes de dominación mundial, y para lograrlo, necesitan revivir a Justice. Ahora depende de Sol, Sin y Ky detener a Ramlethal y el Cónclave cuanto antes.",
+		"consola": "Playstation 3/4"
 
 
 
@@ -52,8 +52,8 @@
 		"titulo": "Guilty Gear Xrd Rev 2",
 		"fecha": "2017",
 		"img": "https://github.com/joaquinsuazo/chrono-gear/blob/main/img/ggxrdrev2__xrd_metallic_logo_with_chains_version__by_kiteazure_db4llhx-fullview.png?raw=true",
-		"historia": "",
-		"consola": ""
+		"historia": "Una semana después de la destrucción del Cónclave durante los eventos de Guilty Gear Xrd -Sign-, Sol emprende una búsqueda para encontrar a Elphelt Valentine, quien fue secuestrada durante los eventos del ya mencionado título, durante su jornada, se verá obligado a unir fuerzas nuevamente con "ese hombre", Raven e I-No, quienes tienen otra Valentine quien es una pieza clave para impedir que la voluntad universal: Ariels, merja a Elphelt con Justice, y esa Valentine es "Jack-O' Valentine".",
+		"consola": "Playstation 3/4"
 
 
 
@@ -62,8 +62,8 @@
 		"titulo": "Guilty Gear -Strive-",
 		"fecha": "2021",
 		"img": "https://github.com/joaquinsuazo/chrono-gear/blob/main/img/ggst_logo_big2.png?raw=true",
-		"historia": "",
-		"consola": ""
+		"historia": "Tiempo después de la derrota de Ariels y su posterior arresto, Sol y Ky se enteran de que Asuka R. Kreutz (conocido anteriormente como "ese hombre"), se entregó a las autoridades de los Estados Unidos, haciendo que todo el mundo lo tenga en la mira. Mientras Sol descubre sus verdaderas intenciones, el, Ky y una nueva Jack-O' Valentine tendrán que embarcarse a los Estados Unidos, donde tendrán que no solamente descubrir las verdaderas intenciones de Asuka y desatar la batalla final por el destino de la humanidad, sino también tendrán que hacerse cargo de I-No y un nuevo enemigo: Happy Chaos, quien es en realidad el maestro de Asuka a quien la gente se refería como "El Original".",
+		"consola": "Playstation 4/5"
 
 
 
