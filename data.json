@@ -32,7 +32,7 @@
     {
  	    "name": "Happy Chaos",
 		"pagina": "https://www.guiltygear.com/ggst/en/",
-		"img": "https://github.com/joaquinsuazo/Front-clase-11/blob/main/img/maxresdefault.jpg",
+		"img": "https://raw.githubusercontent.com/joaquinsuazo/Front-clase-11/main/img/maxresdefault.jpg",
 	    "genero": "Masculino",
 		"juego": "Personaje principal guilty gear"
 
@@ -41,7 +41,7 @@
 	{
 		"name": "Ky Kyske",
 		"pagina": "https://www.guiltygear.com/ggst/en/",
-		"img": "https://github.com/joaquinsuazo/Front-clase-11/blob/main/img/imagen%20ky.jpg",
+		"img": "https://raw.githubusercontent.com/joaquinsuazo/Front-clase-11/main/img/imagen%20ky.jpg",
 		"genero": "Masculino",
 		"juego": "Personaje de guilty gear"
 
@@ -51,7 +51,7 @@
 	{
 		"name": "Asuka R",
 		"pagina": "https://www.guiltygear.com/ggst/en/",
-		"img": "https://github.com/joaquinsuazo/Front-clase-11/blob/main/img/images.jpg",
+		"img": "https://raw.githubusercontent.com/joaquinsuazo/Front-clase-11/main/img/images.jpg",
 		"genero": "Masculino",
 		"juego": " Personaje principal de guilty gear"
 
